@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![image](https://raw.githubusercontent.com/Nixoncandiales/Nixoncandiales/master/img/bga_bw.jpg) 
+
 - 🔭 I’m a Economics Ph.D. student at Emory University. My broad research interests are development economics, causal inference and exprimental economics. I am currently researching labor, health and economics of education issues.
 - 🏢 I'm in my 2nd year at **Emory University**.
 - 📫 Reach me: [twitter.com/nixcandiales](https://twitter.com/nixcandiales)
