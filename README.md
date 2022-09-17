@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m a Economics Ph.D. student at Emory University. My broad research interests are development economics, causal inference and exprimental economics. I am currently researching labor, health and economics of education issues.
-- 🏢 I'm currently working with **CMS** data discrimination against male nurser in the market.
+- 🏢 I'm currently in my 2nd year at **Emory University**.
 - 📫 Reach me: [twitter.com/nixcandiales](https://twitter.com/nixcandiales)
 - ⚡ Fun fact: Randomized Control Trials enthusiast.
 
