@@ -2,9 +2,8 @@
 - 🔭 I’m a Economics Ph.D. student at Emory University currently researching on labor, health and economics of education issues.
 - 🏢 I'm currently working with **CMS** data 
 - 📫 Reach me: [twitter.com/nixcandiales](https://twitter.com/nixcandiales)
-- 😄 Pronouns: he/him/his
 
-Here you can find my notes from classes I have taken at Ut-Austin and Emory, repos with my research and as well as some personal projects from before the doctorate just for fun.
+Here you can find my notes from classes, repos with my research and as well as some personal projects just for fun.
 
 
 <!--
