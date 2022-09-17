@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m a Economics Ph.D. student at Emory University currently researching on labor, health and economics of education issues.
-- - 🏢 I'm currently working with **CMS** data 
+- 🏢 I'm currently working with **CMS** data 
 - 📫 Reach me: [twitter.com/nixcandiales](https://twitter.com/nixcandiales)
-- - 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: "You might belong in Gryffindor,
 Where dwell the brave at heart,
 Their daring, nerve, and chivalry
