@@ -3,7 +3,6 @@
 - 🏢 I'm currently working with **CMS** data 
 - 📫 Reach me: [twitter.com/nixcandiales](https://twitter.com/nixcandiales)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: "Muggle-Gryffindor"
 
 Here you can find my notes from classes I have taken at Ut-Austin and Emory, repos with my research and as well as some personal projects from before the doctorate just for fun.
 
@@ -18,6 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+- ⚡ Fun fact: "Muggle-Gryffindor"
 
 
 - ⚡ Fun fact: ...
