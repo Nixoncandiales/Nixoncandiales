@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m a Economics Ph.D. student at Emory, currently working on labor, health and economics of education topics.
+- 🔭 I’m a Economics Ph.D. student at Emory currently working on labor, health and economics of education topics.
 <!--
 **Nixoncandiales/Nixoncandiales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
