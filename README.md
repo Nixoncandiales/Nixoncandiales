@@ -3,11 +3,8 @@
 - 🏢 I'm currently working with **CMS** data 
 - 📫 Reach me: [twitter.com/nixcandiales](https://twitter.com/nixcandiales)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: "You might belong in Gryffindor,
-Where dwell the brave at heart,
-Their daring, nerve, and chivalry
-Set Gryffindors apart"
-- 
+- ⚡ Fun fact: "Muggle-Gryffindor"
+
 Here you can find my notes from classes I have taken at Ut-Austin and Emory, as well as some personal projects just for fun and the 
 
 
