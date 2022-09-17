@@ -4,7 +4,7 @@
 - 📫 Reach me: [twitter.com/nixcandiales](https://twitter.com/nixcandiales)
 - ⚡ Fun fact: Randomized Control Trials enthusiast.
 
-Here you can find my notes from classes, repos with my research and as well as some personal projects just for fun.
+Here you can find my notes from classes, repos with my research and some personal projects just for fun.
 
 
 <!--
