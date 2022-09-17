@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: "Muggle-Gryffindor"
 
-Here you can find my notes from classes I have taken at Ut-Austin and Emory, repos with my research and as well as some personal projects from before the PhD just for fun.
+Here you can find my notes from classes I have taken at Ut-Austin and Emory, repos with my research and as well as some personal projects from before the doctorate just for fun.
 
 
 <!--
