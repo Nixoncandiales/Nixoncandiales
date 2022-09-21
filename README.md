@@ -7,7 +7,7 @@
 - 📫 Reach me: [twitter.com/nixcandiales](https://twitter.com/nixcandiales)
 - ⚡ Fun fact: Randomized Control Trials enthusiast.
 
-Here you can find my notes from classes, repos with my research and some personal projects just for fun.
+Here you can find my notes from classes, repos containing the code I implement in my research and some personal projects just for fun.
 
 
 <!--
@@ -16,7 +16,7 @@ Here you can find my notes from classes, repos with my research and some persona
 Here are some ideas to get you started:
 
 ![image](https://raw.githubusercontent.com/Nixoncandiales/Nixoncandiales/master/bga_bw.jpeg) 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
